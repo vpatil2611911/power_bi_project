@@ -8,15 +8,15 @@ The dashboard includes key performance indicators such as Total shows, Total Gro
 
 DAX for caluculation 
 Measures: 
-Overview = SELECTEDVALUE(imdb_top_1000[Poster_Link],0)
-Top Shows Gross = SUM(Top10[Gross])
-Top Shows = COUNT(Top10[Series_Title])
-Total Box Collection = SUM(imdb_top_1000[Gross])
-Total Shows = COUNT(imdb_top_1000[Series_Title])
+1.Overview = SELECTEDVALUE(imdb_top_1000[Poster_Link],0)
+2.Top Shows Gross = SUM(Top10[Gross])
+3.Top Shows = COUNT(Top10[Series_Title])
+4.Total Box Collection = SUM(imdb_top_1000[Gross])
+5.Total Shows = COUNT(imdb_top_1000[Series_Title])
 
 New Table:
 Power Query
-Top10 = TOPN(10,imdb_top_1000)
+1.Top10 = TOPN(10,imdb_top_1000)
 
 Power BI report Link: https://app.powerbi.com/groups/me/reports/3915c53e-c33f-4b7c-909c-3713920e20df/ReportSection?experience=power-bi
 
