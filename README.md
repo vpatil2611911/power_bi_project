@@ -20,3 +20,22 @@ Power Query
 
 Power BI report Link: https://app.powerbi.com/groups/me/reports/3915c53e-c33f-4b7c-909c-3713920e20df/ReportSection?experience=power-bi
 
+Project Overview: "Conducted in-depth analysis of box office hits to uncover fascinating insights within the world of cinema."
+
+Interactive Dashboard Creation: "Designed and developed an interactive dashboard that serves as a comprehensive tool for exploring the cinematic universe."
+
+Exploring Genre Trends: "Analyzed and visualized genre trends within the movie industry, providing valuable insights into the types of films that resonate with audiences."
+
+Key Performance Indicators (KPIs): "Incorporated essential KPIs in the dashboard, including Total shows, Total Gross, Top 10 shows, and Top 10 shows gross, to provide a holistic view of movie performance."
+
+Genre Analysis: "Identified the most viewed genre by gross, offering a data-driven perspective on the popularity of different film genres."
+
+Box Office Collection Insights: "Unveiled critical findings related to box office collections, enabling a deeper understanding of the financial aspects of the film industry."
+
+Runtime Analysis: "Examined the relationship between runtime and box office collections, revealing the impact of film duration on audience engagement and financial success."
+
+Storytelling Through Data: "Used data visualization techniques to craft a narrative that brings the data behind the silver screen magic to life."
+
+Data-Driven Decision-Making: "Empowered stakeholders with actionable insights, facilitating informed decision-making within the film industry."
+
+Data-Backed Recommendations: "Leveraged project findings to propose recommendations for filmmakers and studios, guiding them in creating successful films."
