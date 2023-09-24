@@ -1,4 +1,4 @@
-# power_BI_project
+# Movies Analysis Top Rated
 Top rated movie analysis using power BI 
 
 where I've analyses the fascinating movies from box office hits of genre trends, this interactive dashboard dives deep into the cinematic universe, explores the numbers behind film's finest, and lets the data tell you the story behind the silver screen magic.
